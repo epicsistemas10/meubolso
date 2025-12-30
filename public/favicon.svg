@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <rect width="24" height="24" rx="6" fill="#34C759"/>
+  <g transform="translate(3 3)" fill="#ffffff">
+    <!-- porquinho branco sobre fundo verde (pig body slightly simplified) -->
+    <path d="M6.5 1a3.5 3.5 0 0 0-3.5 3.5c0 .2.02.4.06.59A2.5 2.5 0 0 0 2 8.5v1a1 1 0 0 0 1 1h1v1a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-1h1a1 1 0 0 0 1-1v-1A2.5 2.5 0 0 0 14.94 5.09c.04-.19.06-.39.06-.59A3.5 3.5 0 0 0 11.5 1h-5zM6 4a.5.5 0 1 1 0 1 .5.5 0 0 1 0-1zm5 0a.5.5 0 1 1 0 1 .5.5 0 0 1 0-1zM5 11v-1h6v1H5z" />
+    <circle cx="18" cy="3" r="1" fill="#ffffff" opacity="0.08" />
+  </g>
+</svg>

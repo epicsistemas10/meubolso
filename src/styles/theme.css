@@ -1,0 +1,26 @@
+:root {
+  --primary: #7A3FF2;
+  --primary-dark: #5B2CCB;
+  --primary-light: #B58BFF;
+  
+  --bg-main: #0E0F13;
+  --bg-card: #1A1B22;
+  
+  --text-main: #FFFFFF;
+  --text-muted: #B5B7C2;
+  
+  --success: #2ECC71;
+  --danger: #FF4D4F;
+  --warning: #F5C542;
+}
+
+.gradient-primary {
+  background: linear-gradient(135deg, #7A3FF2, #5B2CCB);
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, #7A3FF2, #B58BFF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
